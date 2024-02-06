@@ -1,0 +1,3 @@
+[submodule "gittest/gttest/mytestpage"]
+	path = gittest/gttest/mytestpage
+	url = https://github.com/ubsong/mytestpage
